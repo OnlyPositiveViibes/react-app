@@ -33,7 +33,7 @@ class Favorites extends React.Component {
         }else {
             return(
                 
-                    <p>Issaugotu filmu nera</p>
+                    <p>Issaugotu prikolu nera</p>
                 
             )
         }
